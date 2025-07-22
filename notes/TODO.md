@@ -29,6 +29,7 @@
 - [ ] Explore additional language servers (Go, Rust, etc.)
 - [ ] Configure snippets
 - [ ] Set up project-specific settings
+- [ ] Enhance tmux + Neovim integration (seamless navigation, project layouts, etc.)
 
 ## Notes
 - Using Kickstart.nvim as base
