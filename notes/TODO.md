@@ -1,5 +1,8 @@
 # Neovim Configuration TODO
 
+## Next Session
+- [ ] Practice gitsigns keymaps using notes/gitsigns-practice.md guide
+
 ## Completed ✓
 - [x] Enable Neo-tree file explorer
 - [x] Configure LSP servers (C++, Python, TypeScript)
